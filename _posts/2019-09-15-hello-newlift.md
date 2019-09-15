@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Hello New Lift"
+title:      "Hello New Life"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2019-09-15 08:25:00
 author:     "yth"
